@@ -36,7 +36,7 @@ export default {
 		...Components
 	},
 
-	async setup() {
+	setup() {
 		const connecting = ref(false);
 		const thread = ref(null);
 		const userId = Math.random()

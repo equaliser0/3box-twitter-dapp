@@ -1,8 +1,6 @@
 <template>
 	<main>
-		<Suspense>
-			<Home />
-		</Suspense>
+		<Home />
 	</main>
 </template>
 
