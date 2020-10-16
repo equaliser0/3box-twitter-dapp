@@ -5,8 +5,7 @@
 			<p class="tweet-info">
 				<span></span>
 			</p>
-			<p>
-			</p>
+			<p></p>
 		</div>
 	</section>
 </template>

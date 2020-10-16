@@ -1,10 +1,9 @@
 <template>
-	<main>
-	</main>
+	<main></main>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style>

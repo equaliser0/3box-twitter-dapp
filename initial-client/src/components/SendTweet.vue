@@ -1,10 +1,9 @@
 <template>
-	<div class="add-tweet-container flex">
-	</div>
+	<div class="add-tweet-container flex"></div>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style scoped>
